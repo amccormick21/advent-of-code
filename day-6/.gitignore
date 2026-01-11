@@ -1,0 +1,12 @@
+# Rust/Cargo
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDEs and editors
+.idea/
+*.iml
+*.swp
+*.swo
+*.bak
+*.tmp

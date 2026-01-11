@@ -1,0 +1,18 @@
+{
+
+"configurations": [
+{
+    "name": "(gdb) Launch",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${workspaceFolder}/main.exe",
+    "args": ["input.txt"],
+    "stopAtEntry": false,
+    "cwd": "${fileDirname}",
+    "environment": [],
+    "externalConsole": false,
+    "MIMode": "gdb",
+    "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe"
+}
+]
+}

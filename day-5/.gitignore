@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Linker files
+*.exp
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+debug/
+release/
